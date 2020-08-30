@@ -1,0 +1,10 @@
+{
+	"name": "@zamasaur/js-exception",
+	"description": "A package with a set of standard Exceptions for JavaScript.",
+	"type": "module",
+	"private": true,
+	"dependencies": {},
+	"devDependencies": {
+		"jsdoc": "latest"
+	}
+}
